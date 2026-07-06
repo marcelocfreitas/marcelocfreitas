@@ -53,8 +53,6 @@ I've been working in tech since 2012, with experience spanning infrastructure, s
 
 ---
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png" width="30" /> Contact & Social Media
-
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelo-c-freitas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:marceloo.cfreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
