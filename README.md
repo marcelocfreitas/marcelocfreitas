@@ -1,4 +1,4 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1450729505/225/tie_fighter.gif" width="30" /> Hello there!
+Hello there!
 
 I'm Marcelo, a Software Engineering professional passionate about backend engineering, software architecture and enterprise systems.
 
@@ -6,7 +6,6 @@ I've been working in tech since 2012, with experience spanning infrastructure, s
 
 ---
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1482947228/1532/lightsaber.png" width="30" /> Technologies
 
 #### Backend
 
