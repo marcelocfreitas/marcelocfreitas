@@ -1,4 +1,4 @@
-#### Hello there!
+### Hello there!
 
 I'm Marcelo, a Software Engineering professional passionate about backend engineering, software architecture and enterprise systems.
 
@@ -53,7 +53,7 @@ I've been working in tech since 2012, with experience spanning infrastructure, s
 
 ---
 
-#### Contact
+### Contact & Social Media
 
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelo-c-freitas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
